@@ -1,6 +1,7 @@
 # meals
 
 A new Flutter project.
+An app which displays the meals and their recipes along with certain filter options.
 
 ## Getting Started
 
